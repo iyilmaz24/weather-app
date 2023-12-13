@@ -1,0 +1,11 @@
+# Ignore artifacts:
+webpack.config.js
+package.json
+package-lock.json
+.gitignore
+.eslintrc.json
+node_modules
+settings.json
+bundle.js
+index.html
+dist

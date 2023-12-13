@@ -1,0 +1,1 @@
+# make sure to enable react preset for babel in '.babelrc' as well as 'webpack.config.js' if using react in project
